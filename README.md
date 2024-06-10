@@ -1,4 +1,4 @@
-### OPSC Part 3, Group 2 
+### OPSC7311 Part 3, Group 2 
 Please see main branch 
 ## Group name: The Visionaries
 Hannah Michaelson: ST10158643 (PM)
